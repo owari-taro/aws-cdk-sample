@@ -1,0 +1,3 @@
+digraph "template" {
+MyBucket [color=black, label="MyBucket\n<AWS::S3::Bucket>", shape=ellipse, type=Resource];
+}
